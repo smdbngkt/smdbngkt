@@ -1,6 +1,6 @@
 # Hello, I'm [samidbangkit] 👋
 
-![Welcome Banner]([https://i.ibb.co.com/WFQLmyD/github-header-image.png])
+![Welcome Banner](https://i.ibb.co.com/WFQLmyD/github-header-image.png)
 
 ## About Me
 

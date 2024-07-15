@@ -6,11 +6,11 @@
 
 I'm a passionate developer with experience in [your skills or field]. I enjoy creating innovative solutions and contributing to open-source projects. 
 
-- 🌱 I’m currently learning [current learning focus]
-- 💬 Ask me about [topics you are knowledgeable in]
-- 📫 How to reach me: [your contact information]
-- 😄 Pronouns: [your pronouns]
-- ⚡ Fun fact: [a fun fact about you]
+- 🌱 I’m currently learning web3
+- 💬 Ask me about java
+- 📫 How to reach me: x.com/smdbngkt
+- 😄 Pronouns: ?
+- ⚡ Fun fact: ultra!
 
 ## 🚀 Skills
 

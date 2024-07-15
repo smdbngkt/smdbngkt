@@ -1,6 +1,6 @@
 # Hello, I'm [samidbangkit] 👋
 
-![Welcome Banner]([https://your-image-link.com/banner.png](https://i.ibb.co.com/WFQLmyD/github-header-image.png))
+![Welcome Banner]([https://i.ibb.co.com/WFQLmyD/github-header-image.png])
 
 ## About Me
 
@@ -36,21 +36,6 @@ I'm a passionate developer with experience in [your skills or field]. I enjoy cr
 
 ## 📂 Featured Projects
 
-### [Project 1 Name](https://github.com/yourusername/project1)
-A brief description of your project. 
-![Project Language](https://img.shields.io/badge/-Language-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### [Project 2 Name](https://github.com/yourusername/project2)
-A brief description of your project.
-![Project Language](https://img.shields.io/badge/-Language-3776AB?style=flat&logo=python&logoColor=white)
-
-## 📝 Latest Blog Posts
-
-- [Blog Post 1](https://yourblog.com/post1)
-- [Blog Post 2](https://yourblog.com/post2)
-- [Blog Post 3](https://yourblog.com/post3)
-
----
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
 
